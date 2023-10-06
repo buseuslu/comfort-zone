@@ -1,7 +1,7 @@
 ## About the project
 
 This is an e-commerce project built by using React.<br />
-It has been completed by following this [React course](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/) on Udemy. <br />
+
 It has been deployed on [https://comfort-clothing.netlify.app/](https://comfort-clothing.netlify.app/)
 
 ## Instructions to run the project
